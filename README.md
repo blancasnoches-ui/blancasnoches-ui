@@ -23,10 +23,6 @@ Topics I’m currently exploring:
 - launch strategies for developer tools
 - examples of effective technical product storytelling
 
-## Portfolio
-
-Selected work:
-https://lisovskaya.super.site
 
 ## Contact
 
