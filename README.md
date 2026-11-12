@@ -27,4 +27,4 @@ Topics I’m currently exploring:
 ## Contact
 
 LinkedIn:
-https://www.linkedin.com/in/eugenia-lisovskaya
+
